@@ -34,8 +34,8 @@
     "jest": "^20.0.4",
     "less": "^2.4.0",
     "less-loader": "^2.1.0",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
     "react-test-renderer": "^15.6.1",
     "style-loader": "^0.13.1",
     "webpack": "^1.14.0"
@@ -48,10 +48,6 @@
     "object-assign": "^4.0.1",
     "react-input-number": "^2.1.1",
     "react-input-slider": "^4.0.1"
-  },
-  "peerDependencies": {
-    "react": "^15.4.1",
-    "react-dom": "^15.4.1"
   },
   "directories": {
     "example": "example"
