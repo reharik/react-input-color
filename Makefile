@@ -1,5 +1,5 @@
 all:
-	babel lib --out-dir dist
+	babel lib --out-dir dist --verbose
 	lessc lib/input-color.less > dist/input-color.css
 	webpack -p
 clean:
